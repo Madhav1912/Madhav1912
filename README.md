@@ -1,25 +1,98 @@
-<h1 align="center">Hi 👋, I'm STG Madhav Srivastha</h1>
-<h3 align="center">Data Science Student | Generative AI & Machine Learning | AWS Cloud Enthusiast</h3>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm STG Madhav Srivastha
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav1912&label=Profile%20views&color=0e75b6&style=flat" alt="madhav1912" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhav1912" alt="madhav1912" /></a> </p>
-
-- 🌱 I’m currently learning **Generative AI, NLP, and building LLM-powered applications.**
-
-- 👯 I’m looking to collaborate on **Generative AI and NLP projects such as chatbots, recommendation systems, and LLM-powered applications.**
-
-- 🤝 I’m looking for help with **Building and fine-tuning Generative AI and NLP models for real-world applications.**
-
-- 💬 Ask me about **Data Science, Machine Learning, Generative AI, and NLP projects.**
-
-- 📫 How to reach me **madhavsrivathsa19@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/stg madhav srivastha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stg madhav srivastha" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/500092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="500092" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=B.Tech+Graduate+in+Data+Science;Generative+AI+%26+Machine+Learning+Engineer;NLP+%7C+LLMs+%7C+AWS+Cloud+Enthusiast;Building+AI-powered+Real-World+Applications" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=madhav1912&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 **B.Tech Graduate in Data Science**
+- 🤖 Passionate about **Generative AI, NLP, and Large Language Models**
+- 🧠 Hands-on experience in **ML, Deep Learning & AI-powered apps**
+- ☁️ AWS Cloud enthusiast with exposure to **deployment & scalable systems**
+- 📊 Strong in **data preprocessing, feature engineering & model evaluation**
+
+---
+
+## 🔥 Current Focus
+
+- 🌱 Generative AI, NLP, Prompt Engineering  
+- 🧠 LLMs, LangChain, Vector Databases, RAG  
+- ☁️ Deploying ML & AI apps using AWS  
+
+---
+
+## 🤝 Open to Collaborate On
+
+- 🤖 AI Chatbots & Virtual Assistants  
+- 📚 NLP & LLM-based applications  
+- 📊 End-to-End Data Science projects  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,php,django,mysql,mongodb,aws,pytorch,tensorflow" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+- 🚀 **AI Chatbot using NLP & LLMs**
+- 📊 **Machine Learning Prediction Systems**
+- 📈 **Data Analysis & Visualization Dashboards**
+- 🌐 **Django-based ML Web Applications**
+- ☁️ **AWS Deployed ML Solutions**
+
+---
+
+## 📊 GitHub Stats (Animated)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhav1912&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhav1912&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhav1912&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/stg-madhav-srivastha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:madhavsrivathsa19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.topcoder.com/members/500092" target="_blank">
+    <img src="https://img.shields.io/badge/TopCoder-29A7DF?style=for-the-badge&logo=topcoder&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies 🏆
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=madhav1912&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+<p align="center">
+  ✨ <b>Building intelligent systems that solve real-world problems</b> ✨
+</p>
