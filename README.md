@@ -1,122 +1,25 @@
-# 👋 Hi, I'm STG Madhav Srivathsa
+<h1 align="center">Hi 👋, I'm STG Madhav Srivastha</h1>
+<h3 align="center">Data Science Student | Generative AI & Machine Learning | AWS Cloud Enthusiast</h3>
 
-🎓 **B.Tech CSE (Data Science) Student**  
-🤖 **Generative AI | Machine Learning | NLP**  
-☁️ **AWS Cloud Enthusiast**  
-📍 Hyderabad, India
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav1912&label=Profile%20views&color=0e75b6&style=flat" alt="madhav1912" /> </p>
 
-I am an aspiring **Data Scientist and GenAI Engineer** with a strong foundation in **Machine Learning, NLP, and Cloud Computing (AWS)**.  
-I enjoy building **data-driven and AI-powered applications**, deploying them on the cloud, and continuously learning emerging technologies in AI.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhav1912" alt="madhav1912" /></a> </p>
 
----
+- 🌱 I’m currently learning **Generative AI, NLP, and building LLM-powered applications.**
 
-## 🧠 Areas of Interest
-- Data Science & Analytics  
-- Machine Learning & Deep Learning  
-- Generative AI & NLP  
-- Cloud-based ML Deployment (AWS)  
-- Real-world problem solving using data  
+- 👯 I’m looking to collaborate on **Generative AI and NLP projects such as chatbots, recommendation systems, and LLM-powered applications.**
 
----
+- 🤝 I’m looking for help with **Building and fine-tuning Generative AI and NLP models for real-world applications.**
 
-## 🛠️ Technical Skills
+- 💬 Ask me about **Data Science, Machine Learning, Generative AI, and NLP projects.**
 
-### 🔹 Programming & Data Science
-- Python (NumPy, Pandas, Scikit-learn, Matplotlib, TensorFlow)
-- Java, JavaScript
+- 📫 How to reach me **madhavsrivathsa19@gmail.com**
 
-### 🔹 Machine Learning & AI
-- Supervised & Unsupervised Learning
-- Natural Language Processing (NLP)
-- Model Training & Evaluation
-- Predictive Modelling
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/stg madhav srivastha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stg madhav srivastha" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/500092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="500092" height="30" width="40" /></a>
+</p>
 
-### 🔹 Databases
-- SQL: MySQL, PostgreSQL
-- NoSQL: MongoDB, DynamoDB
-
-### 🔹 Cloud & Big Data
-- AWS: EC2, Lambda, S3, DynamoDB, VPC, ELB
-- Hadoop (Basic)
-- Cloud Computing Concepts
-
-### 🔹 Developer Tools
-- Git & GitHub
-- VS Code
-- Linux
-- Android Studio
-
----
-
-## 🚀 Projects
-
-### 🩺 AI-Based Medical Chat Bot
-**Role:** Full Stack Developer & NLP Contributor  
-- Built an AI chatbot that predicts diseases based on user symptoms  
-- Used NLP techniques with Scikit-learn and NLTK for symptom classification  
-- Implemented scalable data storage using AWS DynamoDB  
-- Deployed backend on AWS EC2 with Lambda for serverless processing  
-- Hosted static assets on AWS S3 and configured VPC with ELB  
-
-**Tech Stack:** Python, NLP, Scikit-learn, AWS (EC2, Lambda, S3, DynamoDB)
-
----
-
-### 🛒 Vastra – E-commerce Website
-- Developed a full-featured e-commerce website using HTML, CSS, JavaScript  
-- Implemented a product recommendation system using ML techniques  
-- Built a sales analytics dashboard for admin insights  
-- Deployed frontend on AWS S3 and backend database on DynamoDB  
-
-**Tech Stack:** HTML, CSS, JavaScript, Python, Pandas, Scikit-learn, AWS
-
----
-
-### 🧠 Quick Quiz Web Application
-- Built an interactive quiz platform with real-time scoring  
-- Performed analytics on quiz results using Pandas  
-- Deployed application on AWS EC2 with MySQL backend  
-
-**Tech Stack:** HTML, CSS, JavaScript, Python, MySQL, AWS EC2
-
----
-
-## 💼 Internships
-
-### 🏢 IBM SkillsBuild – Data & Machine Learning Intern
-- Worked on data preprocessing and feature engineering  
-- Built and evaluated machine learning models  
-- Gained hands-on exposure to Data Science and Cloud concepts  
-
-### 🏢 NI-MSME – Web Development Intern
-- Developed responsive web applications  
-- Assisted in backend logic integration  
-- Improved UI/UX and data-driven features  
-
----
-
-## 🎓 Education
-- **B.Tech – Computer Science Engineering (Data Science)**  
-  Pallavi Engineering College, Hyderabad (2021–2025)
-- **Intermediate (MPC)** – SR Junior College (2019–2021)
-- **SSC** – Sri Chaitanya E-Techno School (2018–2019)
-
----
-
-## 📜 Certifications
-- Python for Data Science – NPTEL  
-- Machine Learning – Udemy  
-- Python for Everybody – Coursera  
-- AWS Solution Architect Associate – AWS  
-
----
-
-## 📫 Connect With Me
-- 📧 Email: madhavsrivathsa19@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/stg-madhav-srivastha-a6a71b27b  
-- 🌐 Location: Hyderabad, Telangana, India  
-
----
-
-⭐ *I am actively seeking opportunities as a Data Science / Generative AI / Cloud Engineer Fresher.*  
-Feel free to explore my repositories and connect with me!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
