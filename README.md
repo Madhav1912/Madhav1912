@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./assets/animated-avatar.svg" width="200" alt="Cyber Avatar" />
   <br/>
   <img src="./assets/cyber-title.svg" width="100%" alt="Madhav Srivastha" />
   
