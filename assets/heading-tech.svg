@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 60" width="100%" height="60">
+    <defs>
+        <filter id="neon">
+            <feGaussianBlur stdDeviation="2" result="blur" />
+            <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+        </filter>
+        <linearGradient id="neon-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#ba00ff"><animate attributeName="stop-color" values="#ba00ff;#00ffe0;#ba00ff" dur="4s" repeatCount="indefinite"/></stop>
+            <stop offset="50%" stop-color="#00ffe0"><animate attributeName="stop-color" values="#00ffe0;#00ff8f;#00ffe0" dur="4s" repeatCount="indefinite"/></stop>
+            <stop offset="100%" stop-color="#00ff8f"><animate attributeName="stop-color" values="#00ff8f;#ba00ff;#00ff8f" dur="4s" repeatCount="indefinite"/></stop>
+        </linearGradient>
+    </defs>
+    <g transform="translate(300, 35)">
+        <text x="0" y="0" fill="url(#neon-grad)" font-family="'Segoe UI', Arial, sans-serif" font-weight="900" font-size="26" text-anchor="middle" letter-spacing="4" filter="url(#neon)">
+            TECHNOLOGY STACK
+            <animate attributeName="opacity" values="0.8; 1; 0.8" dur="2s" repeatCount="indefinite"/>
+        </text>
+        <line x1="-165" y1="12" x2="165" y2="12" stroke="#1f2937" stroke-width="2" />
+        <line x1="-165" y1="12" x2="165" y2="12" stroke="url(#neon-grad)" stroke-width="2" filter="url(#neon)">
+            <animate attributeName="stroke-dasharray" values="0,330; 330,0; 0,330" dur="6s" repeatCount="indefinite" />
+        </line>
+        <rect x="180" y="-20" width="10" height="24" fill="#00ffe0" filter="url(#neon)">
+            <animate attributeName="opacity" values="1;0;1" dur="0.8s" step="end" repeatCount="indefinite"/>
+        </rect>
+        <text x="-190" y="-2" fill="#00ff8f" font-family="'Courier New', monospace" font-size="20" font-weight="bold" text-anchor="middle">&gt;</text>
+    </g>
+</svg>

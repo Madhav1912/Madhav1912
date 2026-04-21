@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" align="bottom"/> TECHNOLOGY STACK</h3>
+  <img src="./assets/heading-tech.svg" width="100%" alt="Technology Stack" />
   <br/>
   <img src="./assets/tech-stack.svg" width="100%" alt="Animated Tech Stack" />
   <br/><br/>
@@ -42,7 +42,7 @@
 <br/>
 
 <div align="center">
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chart%20Increasing.png" width="35" align="bottom"/> GITHUB ACTIVITY SUMMARY</h3>
+  <img src="./assets/heading-stats.svg" width="100%" alt="GitHub Activity Summary" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Madhav1912&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=00ff8f&icon_color=00ffe0&text_color=9ca3af" height="192px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhav1912&theme=tokyonight&hide_border=true&background=0b0f19&ring=00ff8f&fire=00ffe0&currStreakLabel=00ff8f&currStreakNum=9ca3af" height="192px" />
@@ -54,7 +54,7 @@
 <br/>
 
 <div align="center">
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" align="bottom"/> CONTRIBUTION SNAKE</h3>
+  <img src="./assets/heading-snake.svg" width="100%" alt="Contribution Snake" />
   <!-- 
   The snake animation is hidden until you run the GitHub Action (see instructions at bottom of file) 
   <picture>
