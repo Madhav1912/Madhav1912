@@ -24,7 +24,7 @@
         
         @keyframes float {
             0%, 100% { transform: translateY(0px); }
-            50% { transform: translateY(-20px); }
+            50% { transform: translateY(-15px); }
         }
     </style>
 
@@ -40,43 +40,53 @@
     </circle>
 
     <!-- Node 1: JavaScript -->
-    <g class="node" transform="translate(120, 110)">
-        <circle cx="0" cy="0" r="50" fill="url(#js-glow)" />
-        <rect x="-24" y="-24" width="48" height="48" fill="#f7df1e" rx="8" filter="url(#neon)"/>
-        <text x="0" y="6" font-family="Arial" font-weight="900" font-size="22" fill="#0b0f19" text-anchor="middle">JS</text>
-        <text x="0" y="55" class="skill-text" fill="#f7df1e">JavaScript</text>
+    <g transform="translate(120, 110)">
+        <g class="node">
+            <circle cx="0" cy="0" r="50" fill="url(#js-glow)" />
+            <rect x="-24" y="-24" width="48" height="48" fill="#f7df1e" rx="8" filter="url(#neon)"/>
+            <text x="0" y="6" font-family="Arial" font-weight="900" font-size="22" fill="#0b0f19" text-anchor="middle">JS</text>
+            <text x="0" y="55" class="skill-text" fill="#f7df1e">JavaScript</text>
+        </g>
     </g>
 
     <!-- Node 2: TypeScript -->
-    <g class="node delay-1" transform="translate(260, 110)">
-        <circle cx="0" cy="0" r="50" fill="url(#ts-glow)" />
-        <rect x="-24" y="-24" width="48" height="48" fill="#3178c6" rx="8" filter="url(#neon)"/>
-        <text x="0" y="6" font-family="Arial" font-weight="900" font-size="22" fill="#fff" text-anchor="middle">TS</text>
-        <text x="0" y="55" class="skill-text" fill="#3178c6">TypeScript</text>
+    <g transform="translate(260, 110)">
+        <g class="node delay-1">
+            <circle cx="0" cy="0" r="50" fill="url(#ts-glow)" />
+            <rect x="-24" y="-24" width="48" height="48" fill="#3178c6" rx="8" filter="url(#neon)"/>
+            <text x="0" y="6" font-family="Arial" font-weight="900" font-size="22" fill="#fff" text-anchor="middle">TS</text>
+            <text x="0" y="55" class="skill-text" fill="#3178c6">TypeScript</text>
+        </g>
     </g>
 
     <!-- Node 3: Python -->
-    <g class="node delay-2" transform="translate(400, 110)">
-        <circle cx="0" cy="0" r="50" fill="url(#py-glow)" />
-        <circle cx="0" cy="0" r="26" fill="#3776ab" filter="url(#neon)"/>
-        <text x="0" y="7" font-family="Arial" font-weight="900" font-size="20" fill="#ffd343" text-anchor="middle">PY</text>
-        <text x="0" y="55" class="skill-text" fill="#4b8bbe">Python</text>
+    <g transform="translate(400, 110)">
+        <g class="node delay-2">
+            <circle cx="0" cy="0" r="50" fill="url(#py-glow)" />
+            <circle cx="0" cy="0" r="26" fill="#3776ab" filter="url(#neon)"/>
+            <text x="0" y="7" font-family="Arial" font-weight="900" font-size="20" fill="#ffd343" text-anchor="middle">PY</text>
+            <text x="0" y="55" class="skill-text" fill="#4b8bbe">Python</text>
+        </g>
     </g>
 
     <!-- Node 4: AWS -->
-    <g class="node delay-3" transform="translate(540, 110)">
-        <circle cx="0" cy="0" r="50" fill="url(#aws-glow)" />
-        <polygon points="0,-26 22,-13 22,13 0,26 -22,13 -22,-13" fill="#ff9900" filter="url(#neon)"/>
-        <text x="0" y="6" font-family="Arial" font-weight="900" font-size="14" fill="#0b0f19" text-anchor="middle">AWS</text>
-        <text x="0" y="55" class="skill-text" fill="#ff9900">AWS</text>
+    <g transform="translate(540, 110)">
+        <g class="node delay-3">
+            <circle cx="0" cy="0" r="50" fill="url(#aws-glow)" />
+            <polygon points="0,-26 22,-13 22,13 0,26 -22,13 -22,-13" fill="#ff9900" filter="url(#neon)"/>
+            <text x="0" y="6" font-family="Arial" font-weight="900" font-size="14" fill="#0b0f19" text-anchor="middle">AWS</text>
+            <text x="0" y="55" class="skill-text" fill="#ff9900">AWS</text>
+        </g>
     </g>
 
     <!-- Node 5: DSA -->
-    <g class="node delay-4" transform="translate(680, 110)">
-        <circle cx="0" cy="0" r="50" fill="url(#dsa-glow)" />
-        <polygon points="0,-24 24,0 0,24 -24,0" fill="#00ff8f" filter="url(#neon)"/>
-        <text x="0" y="5" font-family="Arial" font-weight="900" font-size="16" fill="#0b0f19" text-anchor="middle">DSA</text>
-        <text x="0" y="55" class="skill-text" fill="#00ff8f">Algorithms</text>
+    <g transform="translate(680, 110)">
+        <g class="node delay-4">
+            <circle cx="0" cy="0" r="50" fill="url(#dsa-glow)" />
+            <polygon points="0,-24 24,0 0,24 -24,0" fill="#00ff8f" filter="url(#neon)"/>
+            <text x="0" y="5" font-family="Arial" font-weight="900" font-size="16" fill="#0b0f19" text-anchor="middle">DSA</text>
+            <text x="0" y="55" class="skill-text" fill="#00ff8f">Algorithms</text>
+        </g>
     </g>
 
 </svg>
