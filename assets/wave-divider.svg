@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 40" width="100%" height="40">
+    <defs>
+        <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#ba00ff">
+                <animate attributeName="stop-color" values="#ba00ff;#00ffe0;#ba00ff" dur="5s" repeatCount="indefinite" />
+            </stop>
+            <stop offset="50%" stop-color="#00ffe0">
+                <animate attributeName="stop-color" values="#00ffe0;#00ff8f;#00ffe0" dur="5s" repeatCount="indefinite" />
+            </stop>
+            <stop offset="100%" stop-color="#00ff8f">
+                <animate attributeName="stop-color" values="#00ff8f;#ba00ff;#00ff8f" dur="5s" repeatCount="indefinite" />
+            </stop>
+        </linearGradient>
+        <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
+            <feGaussianBlur stdDeviation="4"/>
+        </filter>
+    </defs>
+    <path fill="none" stroke="url(#glow)" stroke-width="4" filter="url(#blur)" opacity="0.6" d="M0,20 Q125,40 250,20 T500,20 T750,20 T1000,20">
+        <animate attributeName="d" 
+                 values="M0,20 Q125,0 250,20 T500,20 T750,20 T1000,20;
+                         M0,20 Q125,40 250,20 T500,20 T750,20 T1000,20;
+                         M0,20 Q125,0 250,20 T500,20 T750,20 T1000,20" 
+                 dur="4s" repeatCount="indefinite" />
+    </path>
+    <path fill="none" stroke="url(#glow)" stroke-width="2" d="M0,20 Q125,40 250,20 T500,20 T750,20 T1000,20">
+        <animate attributeName="d" 
+                 values="M0,20 Q125,0 250,20 T500,20 T750,20 T1000,20;
+                         M0,20 Q125,40 250,20 T500,20 T750,20 T1000,20;
+                         M0,20 Q125,0 250,20 T500,20 T750,20 T1000,20" 
+                 dur="4s" repeatCount="indefinite" />
+    </path>
+</svg>

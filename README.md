@@ -1,98 +1,108 @@
-<h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm STG Madhav Srivastha
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=B.Tech+Graduate+in+Data+Science;Generative+AI+%26+Machine+Learning+Engineer;NLP+%7C+LLMs+%7C+AWS+Cloud+Enthusiast;Building+AI-powered+Real-World+Applications" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=madhav1912&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 **B.Tech Graduate in Data Science**
-- 🤖 Passionate about **Generative AI, NLP, and Large Language Models**
-- 🧠 Hands-on experience in **ML, Deep Learning & AI-powered apps**
-- ☁️ AWS Cloud enthusiast with exposure to **deployment & scalable systems**
-- 📊 Strong in **data preprocessing, feature engineering & model evaluation**
-
----
-
-## 🔥 Current Focus
-
-- 🌱 Generative AI, NLP, Prompt Engineering  
-- 🧠 LLMs, LangChain, Vector Databases, RAG  
-- ☁️ Deploying ML & AI apps using AWS  
-
----
-
-## 🤝 Open to Collaborate On
-
-- 🤖 AI Chatbots & Virtual Assistants  
-- 📚 NLP & LLM-based applications  
-- 📊 End-to-End Data Science projects  
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,php,django,mysql,mongodb,aws,pytorch,tensorflow" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-- 🚀 **AI Chatbot using NLP & LLMs**
-- 📊 **Machine Learning Prediction Systems**
-- 📈 **Data Analysis & Visualization Dashboards**
-- 🌐 **Django-based ML Web Applications**
-- ☁️ **AWS Deployed ML Solutions**
-
----
-
-## 📊 GitHub Stats (Animated)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhav1912&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhav1912&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhav1912&theme=tokyo-night" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/stg-madhav-srivastha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="center">
+  <img src="./assets/cyber-title.svg" width="100%" alt="Madhav Srivastha" />
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF8F&center=true&vCenter=true&width=600&lines=Aspiring+Backend+Developer+👨‍💻;Cloud+Enthusiast+☁️;Mastering+Data+Structures+🧠;Building+Scalable+Solutions+🚀" alt="Typing SVG" />
   </a>
-  <a href="mailto:madhavsrivathsa19@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</div>
+
+<div align="center">
+  <img src="./assets/wave-divider.svg" width="100%" />
+</div>
+
+<div align="center">
+  <code>print("Hello, World! I am Madhav, Welcome to my digital workspace.")</code>
+  <br/><br/>
+  <p>I'm focused on becoming a top-tier Backend Developer & Cloud Architect. I actively spend my time mastering algorithms, learning scalable system design, and deepening my expertise in AWS. Open for collaborations, hackathons, and dev roles!</p>
+  
+  <br/>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/madhavsrivastha">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:srivasthamadhav@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  <img src="./assets/wave-divider.svg" width="100%" />
+</div>
+
+<div align="center">
+  <h3>⚡ TECHNOLOGY STACK</h3>
+  <br/>
+  <!-- Using Skillicons for unified premium glassmorphism dark aesthetic -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,aws,nodejs,express,mongodb,postgresql,git,docker,linux,cpp&theme=dark&perline=6" />
   </a>
-  <a href="https://www.topcoder.com/members/500092" target="_blank">
-    <img src="https://img.shields.io/badge/TopCoder-29A7DF?style=for-the-badge&logo=topcoder&logoColor=white"/>
-  </a>
-</p>
+</div>
 
----
+<br/>
 
-## 🏆 GitHub Trophies 🏆
+<div align="center">
+  <h3>📊 GITHUB ACTIVITY SUMMARY</h3>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhav1912&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=00ff8f&icon_color=00ffe0&text_color=9ca3af" height="192px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhav1912&theme=tokyonight&hide_border=true&background=0b0f19&ring=00ff8f&fire=00ffe0&currStreakLabel=00ff8f&currStreakNum=9ca3af" height="192px" />
+  <br/><br/>
+  <!-- Animated contribution activity graph overlay -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhav1912&bg_color=0b0f19&color=00ff8f&line=00ffe0&point=ba00ff&area=true&hide_border=true" width="100%" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madhav1912&theme=radical&no-frame=true&row=1&column=6" />
-</p>
+<br/>
 
----
+<div align="center">
+  <h3>🐍 CONTRIBUTION SNAKE</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madhav1912/Madhav1912/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madhav1912/Madhav1912/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Madhav1912/Madhav1912/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-<p align="center">
-  ✨ <b>Building intelligent systems that solve real-world problems</b> ✨
-</p>
+<div align="center">
+  <img src="./assets/wave-divider.svg" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Madhav1912&label=SYS.VIEWS&color=00ff8f&style=for-the-badge&logo=github&logoColor=black" />
+</div>
+
+<!--
+=========================================
+🟢 HOW TO ENABLE THE CONTRIBUTION SNAKE:
+=========================================
+1. Inside this repository, click on the "Actions" tab.
+2. Click on "New workflow" -> "set up a workflow yourself".
+3. Name it "snake.yml" and paste the following code:
+
+name: Generate Snake
+on:
+  schedule:
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+4. Commit the changes.
+5. Go back to Actions, select "Generate Snake", and manually click "Run workflow".
+6. The snake SVG will now render correctly in your README!
+-->
