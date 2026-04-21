@@ -33,10 +33,7 @@
 <div align="center">
   <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" align="bottom"/> TECHNOLOGY STACK</h3>
   <br/>
-  <!-- Using Skillicons for unified premium glassmorphism dark aesthetic -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,aws,nodejs,express,mongodb,postgresql,git,docker,linux,cpp&theme=dark&perline=6" />
-  </a>
+  <img src="./assets/tech-stack.svg" width="100%" alt="Animated Tech Stack" />
 </div>
 
 <br/>
