@@ -11,9 +11,10 @@
 </div>
 
 <div align="center">
-  <code>print("Hello, World! I am Madhav, Welcome to my digital workspace.")</code>
-  <br/><br/>
-  <p>I'm focused on becoming a top-tier Backend Developer & Cloud Architect. I actively spend my time mastering algorithms, learning scalable system design, and deepening my expertise in AWS. Open for collaborations, hackathons, and dev roles!</p>
+  <img src="./assets/backend-architecture.svg" width="100%" alt="Backend Architecture Animation" />
+  
+  <br/>
+  <p><b>Aspiring Top-Tier Backend Developer & Cloud Architect</b><br/>Mastering algorithms, scalable system design, and AWS.<br/>Open for collaborations, hackathons, and dev roles!</p>
   
   <br/>
 
@@ -32,7 +33,7 @@
 </div>
 
 <div align="center">
-  <h3>⚡ TECHNOLOGY STACK</h3>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" align="bottom"/> TECHNOLOGY STACK</h3>
   <br/>
   <!-- Using Skillicons for unified premium glassmorphism dark aesthetic -->
   <a href="https://skillicons.dev">
@@ -43,7 +44,7 @@
 <br/>
 
 <div align="center">
-  <h3>📊 GITHUB ACTIVITY SUMMARY</h3>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chart%20Increasing.png" width="35" align="bottom"/> GITHUB ACTIVITY SUMMARY</h3>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Madhav1912&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=00ff8f&icon_color=00ffe0&text_color=9ca3af" height="192px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhav1912&theme=tokyonight&hide_border=true&background=0b0f19&ring=00ff8f&fire=00ffe0&currStreakLabel=00ff8f&currStreakNum=9ca3af" height="192px" />
@@ -55,7 +56,7 @@
 <br/>
 
 <div align="center">
-  <h3>🐍 CONTRIBUTION SNAKE</h3>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" align="bottom"/> CONTRIBUTION SNAKE</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madhav1912/Madhav1912/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madhav1912/Madhav1912/output/github-contribution-grid-snake.svg">
