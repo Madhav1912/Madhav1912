@@ -52,12 +52,10 @@
             <animateTransform attributeName="transform" type="rotate" from="0 125 125" to="360 125 125" dur="20s" repeatCount="indefinite"/>
         </polygon>
 
-        <!-- Central Letter -->
-        <text x="125" y="148" fill="url(#text-grad)" font-family="'Impact', sans-serif" font-weight="900" font-size="75" text-anchor="middle" filter="url(#neon)">
-            M
-        </text>
-        <text x="125" y="148" fill="#fff" font-family="'Impact', sans-serif" font-weight="900" font-size="75" text-anchor="middle">
-            M
-        </text>
+        <clipPath id="circle-clip">
+            <circle cx="125" cy="125" r="55"/>
+        </clipPath>
+        <image href="https://github.com/Madhav1912.png" x="70" y="70" height="110" width="110" clip-path="url(#circle-clip)" />
+
     </g>
 </svg>
