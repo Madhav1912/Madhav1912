@@ -19,8 +19,5 @@
         <line x1="-210" y1="12" x2="210" y2="12" stroke="url(#neon-grad)" stroke-width="2" filter="url(#neon)">
             <animate attributeName="stroke-dasharray" values="0,420; 420,0; 0,420" dur="6s" repeatCount="indefinite" />
         </line>
-        <rect x="230" y="-20" width="10" height="24" fill="#00ffe0" filter="url(#neon)">
-            <animate attributeName="opacity" values="1;0;1" dur="0.8s" step="end" repeatCount="indefinite"/>
-        </rect>
     </g>
 </svg>
