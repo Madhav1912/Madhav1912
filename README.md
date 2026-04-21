@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="./assets/animated-avatar.svg" width="200" alt="Cyber Avatar" />
+  <br/>
   <img src="./assets/cyber-title.svg" width="100%" alt="Madhav Srivastha" />
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF8F&center=true&vCenter=true&width=600&lines=Aspiring+Backend+Developer;Cloud+Enthusiast;Mastering+Data+Structures;Building+Scalable+Solutions" alt="Typing Animation" />
