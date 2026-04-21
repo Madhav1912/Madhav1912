@@ -1,9 +1,7 @@
 <div align="center">
   <img src="./assets/cyber-title.svg" width="100%" alt="Madhav Srivastha" />
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF8F&center=true&vCenter=true&width=600&lines=Aspiring+Backend+Developer+👨‍💻;Cloud+Enthusiast+☁️;Mastering+Data+Structures+🧠;Building+Scalable+Solutions+🚀" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF8F&center=true&vCenter=true&width=600&lines=Aspiring+Backend+Developer;Cloud+Enthusiast;Mastering+Data+Structures;Building+Scalable+Solutions" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -57,11 +55,14 @@
 
 <div align="center">
   <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" align="bottom"/> CONTRIBUTION SNAKE</h3>
+  <!-- 
+  The snake animation is hidden until you run the GitHub Action (see instructions at bottom of file) 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madhav1912/Madhav1912/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madhav1912/Madhav1912/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Madhav1912/Madhav1912/output/github-contribution-grid-snake.svg">
   </picture>
+  -->
 </div>
 
 <div align="center">
