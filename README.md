@@ -34,6 +34,9 @@
   <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" align="bottom"/> TECHNOLOGY STACK</h3>
   <br/>
   <img src="./assets/tech-stack.svg" width="100%" alt="Animated Tech Stack" />
+  <br/><br/>
+  <!-- Top languages pulled automatically from github stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhav1912&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19&title_color=00ff8f&icon_color=00ffe0&text_color=9ca3af" height="170px" />
 </div>
 
 <br/>
@@ -67,6 +70,8 @@
 </div>
 
 <div align="center">
+  <img src="./assets/footer-terminal.svg" width="100%" />
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=Madhav1912&label=SYS.VIEWS&color=00ff8f&style=for-the-badge&logo=github&logoColor=black" />
 </div>
 

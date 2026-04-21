@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 60" width="100%" height="60">
+    <defs>
+        <filter id="neon">
+            <feGaussianBlur stdDeviation="2" result="blur" />
+            <feMerge>
+                <feMergeNode in="blur"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+    
+    <path d="M100,30 L280,30" stroke="#1f2937" stroke-width="2" stroke-dasharray="4 4" />
+    <path d="M520,30 L700,30" stroke="#1f2937" stroke-width="2" stroke-dasharray="4 4" />
+    
+    <!-- Moving light cursor on the left path -->
+    <path d="M100,30 L280,30" stroke="#00ffe0" stroke-width="2" filter="url(#neon)">
+        <animate attributeName="stroke-dasharray" values="0,180; 180,0" dur="4s" repeatCount="indefinite" />
+        <animate attributeName="stroke-dashoffset" values="0; -180" dur="4s" repeatCount="indefinite" />
+    </path>
+
+    <text x="400" y="35" fill="#00ff8f" font-family="'Courier New', monospace" font-weight="bold" font-size="14" text-anchor="middle" letter-spacing="4" filter="url(#neon)">
+        SYS.LOGOUT()
+    </text>
+    
+    <!-- Blinking Cursor -->
+    <rect x="475" y="24" width="8" height="14" fill="#00ffe0">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" step="end" repeatCount="indefinite"/>
+    </rect>
+</svg>
